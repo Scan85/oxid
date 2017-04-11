@@ -1,0 +1,798 @@
+# Webalizer V2.23-08 Incremental Data - 04/10/2017 22:45:28
+2017 4 10 22 45 28
+491 349 109 46 21 38 8632763 415 153 0 0 0
+22 2 152 1 10
+36 17 422598 14 36 22 0 0
+51 43 445703 18 42 22 0 0
+16 5 95822 12 12 9 0 0
+175 158 4965218 11 159 11 0 0
+42 19 642677 16 29 14 0 0
+26 13 174753 17 18 15 0 0
+53 36 396873 16 51 16 0 0
+20 9 203856 10 16 10 0 0
+17 8 166920 13 15 12 0 0
+55 41 1118343 22 37 22 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+15 5 160866 14 0 0
+9 6 42152 7 0 0
+15 2 213082 15 0 0
+16 6 108044 14 0 0
+8 2 109615 8 0 0
+5 5 112341 4 0 0
+0 0 0 0 0 0
+1 1 6860 1 0 0
+10 3 115938 10 0 0
+7 5 62334 7 0 0
+5 3 50278 5 0 0
+19 15 446327 19 0 0
+4 2 18043 4 0 0
+13 8 82046 5 0 0
+189 174 5499766 154 0 0
+15 6 183091 14 0 0
+16 5 153857 13 0 0
+15 5 94532 9 0 0
+18 13 236625 14 0 0
+55 51 344640 55 0 0
+11 5 41404 10 0 0
+13 9 135291 9 0 0
+24 12 386616 19 0 0
+8 6 29015 5 0 0
+0
+0
+0
+349
+0
+0
+0
+0
+0
+2
+0
+57
+0
+0
+11
+0
+0
+0
+0
+0
+8
+64
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/newsletter/
+0 6 0 184797 0 0 0 0
+/Wie-bestellen/
+0 11 0 204497 4 4 0 0
+/Datenschutz/
+0 10 0 215347 2 1 0 0
+/out/flow/src/js/scripts.min.js
+1 3 0 24282 0 0 0 0
+/out/flow/img/logo_oxid.png
+1 4 0 11772 0 0 0 0
+/out/flow/src/fonts/fontawesome-webfont.ttf
+0 1 0 138204 0 0 0 0
+/out/flow/img/favicons/favicon_48x48.png
+1 3 0 7218 0 0 0 0
+/out/flow/src/js/libs/jquery.flexslider.min.js
+1 3 0 12756 0 0 0 0
+/Impressum/
+0 13 0 284386 3 3 0 0
+/out/flow/img/favicons/favicon_64x64.png
+1 2 0 6420 0 0 0 0
+/passwort-vergessen/
+0 6 0 178891 0 0 0 0
+/out/flow/img/lang/de.png
+1 4 0 753 0 0 0 0
+/links/
+0 10 0 219708 2 1 0 0
+/out/flow/src/js/pages/start.min.js
+1 3 0 480 0 0 0 0
+/mein-wunschzettel/
+0 6 0 191616 0 0 0 0
+/gaestebuch/
+0 9 0 191370 2 2 0 0
+/out/flow/src/css/styles.min.css
+1 7 0 324198 0 0 0 0
+/Hilfe-Main/
+0 11 0 222404 3 2 0 0
+/mein-konto/
+0 7 0 226416 0 0 0 0
+/kontakt/
+0 10 0 280393 2 0 0 0
+/out/flow/src/fonts/fontawesome-webfont.woff
+0 1 0 81284 0 0 0 0
+/out/flow/img/basket.png
+1 1 0 5413 0 0 0 0
+/out/flow/img/favicons/favicon_32x32.png
+1 2 0 3040 0 0 0 0
+/rss/City-Reifen-Felgen-Shop/Top-of-the-Shop/
+0 5 0 4542 1 0 0 0
+/Widerrufsrecht/
+0 9 0 185088 1 2 0 0
+/out/flow/img/favicons/favicon_512x512.png
+1 5 0 140265 0 0 0 0
+/out/flow/src/js/libs/jquery-ui.min.js
+1 4 0 181668 0 0 0 0
+/startseite/
+0 13 0 265770 0 0 0 0
+/mein-produktvergleich/
+0 10 0 216733 2 2 0 0
+/out/flow/src/js/libs/jquery.min.js
+1 3 0 59522 0 0 0 0
+/warenkorb/
+0 6 0 152003 0 0 0 0
+/AGB/
+0 10 0 192315 3 2 0 0
+/Zahlung-und-Lieferung/
+0 8 0 178719 1 0 0 0
+/
+0 74 0 1166890 55 11 0 0
+/konto-eroeffnen/
+0 6 0 229821 0 0 0 0
+/stichworte/
+0 7 0 66743 4 3 0 0
+/out/flow/img/favicons/favicon_16x16.png
+1 3 0 2142 0 0 0 0
+/out/flow/img/favicons/favicon_128x128.png
+1 6 0 38742 0 0 0 0
+/out/flow/src/css/libs/jquery.flexslider.min.css
+1 7 0 8841 0 0 0 0
+/out/flow/src/fonts/fontawesome-webfont.woff2
+0 5 0 180194 0 0 0 0
+/rss/City-Reifen-Felgen-Shop/Neue-Artikel-im-Shop/
+0 5 0 4530 1 1 0 0
+/meine-lieblingslisten/
+0 10 0 248608 2 2 0 0
+/news/
+0 9 0 189863 2 0 0 0
+/wunschzettel/
+0 17 0 354004 4 2 0 0
+/out/pictures/wysiwigpro/Model_form_for_withdrawal_de.pdf
+0 1 0 48111 0 0 0 0
+/mein-merkzettel/
+0 6 0 191545 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+s87-paris.cloud-center.ro
+0 2 2 11942 2 1491699817 0 0
+/
+hsi-kbw-5-10-143-154.hsi19.kabel-badenwuerttemberg.de
+0 4 4 128720 2 1491391692 0 0
+/Impressum/
+msnbot-157-55-39-230.search.msn.com
+0 2 0 6156 1 1491670499 0 0
+-
+51-15-10-29.rev.poneytelecom.eu
+0 2 0 6078 1 1491752762 0 0
+-
+a22.sub185.net78.udm.net
+0 1 0 264 0 0 0 0
+-
+54.e1.2bd0.ip4.static.sl-reverse.com
+0 1 1 5971 1 1491102308 0 0
+/
+37-186-253-230.ip271.fastwebnet.it
+0 1 0 202 1 1491336221 0 0
+-
+ancarl3889.fvds.ru
+0 2 0 32530 1 1491021068 0 0
+-
+baiduspider-180-76-15-9.crawl.baidu.com
+0 2 2 12146 2 1491701522 0 0
+/Impressum/
+malta1844.startdedicated.de
+0 6 6 36171 6 1491516602 0 0
+/wunschzettel/
+lodge.deliveredl.com
+0 2 0 0 1 1491770263 0 0
+-
+anfret964.fvds.ru
+0 2 0 32530 1 1491405617 0 0
+-
+134.119.213.82
+0 1 1 5971 1 1491499832 0 0
+/
+121.8.107.106
+0 1 0 202 1 1491084416 0 0
+-
+x59cc99aa.dyn.telefonica.de
+0 1 1 5971 1 1491212784 0 0
+/
+pool-46-63-28-48.x-city.ua
+0 1 1 5971 1 1491408096 0 0
+/
+163-172-66-18.rev.poneytelecom.eu
+0 1 1 5804 1 1491778528 0 0
+/Datenschutz/
+crawl-66-249-76-138.googlebot.com
+0 1 0 5895 1 1491188406 0 0
+-
+188.212.33.228
+0 2 0 0 1 1491756426 0 0
+-
+baiduspider-180-76-15-161.crawl.baidu.com
+0 1 1 6860 1 1491376167 0 0
+/kontakt/
+94.185.84.146
+0 1 0 251 0 0 0 0
+-
+46.161.9.17
+0 2 0 6083 1 1491294162 0 0
+-
+ns38731.ip-91-121-16.eu
+0 1 0 202 1 1491532562 0 0
+-
+baiduspider-180-76-15-134.crawl.baidu.com
+0 1 1 6056 1 1491041533 0 0
+/wunschzettel/
+anfret961.fvds.ru
+0 2 0 32530 1 1491668694 0 0
+-
+serienwiki.org
+0 151 145 4738822 1 1491315862 0 0
+/news/
+baiduspider-180-76-15-30.crawl.baidu.com
+0 2 2 38734 2 1491864255 0 0
+/
+baiduspider-180-76-15-145.crawl.baidu.com
+0 1 1 5971 1 1491848865 0 0
+/
+bardolino.netestate.de
+0 1 1 32673 1 1491814214 0 0
+/
+8-182-16-190.fibertel.com.ar
+0 1 0 202 1 1491838816 0 0
+-
+ancarl3886.fvds.ru
+0 3 0 32744 2 1491762900 0 0
+-
+163-172-64-226.rev.poneytelecom.eu
+0 1 1 5971 1 1491666958 0 0
+/
+ancarl3885.fvds.ru
+0 1 0 214 1 1491520917 0 0
+-
+baiduspider-180-76-15-31.crawl.baidu.com
+0 2 2 33757 1 1491864328 0 0
+/
+baiduspider-180-76-15-140.crawl.baidu.com
+0 1 1 5971 1 1491078744 0 0
+/
+pc.cit.hs-duesseldorf.de
+0 9 8 172701 1 1491402695 0 0
+/
+static.228.1.4.46.clients.your-server.de
+0 5 3 93838 1 1491321532 0 0
+/startseite/
+ns328059.ip-37-187-112.eu
+0 1 0 202 1 1491316159 0 0
+-
+x2f7f05e.dyn.telefonica.de
+0 7 1 5971 1 1491500594 0 0
+/
+baiduspider-180-76-15-5.crawl.baidu.com
+0 1 1 30917 0 0 0 0
+-
+baiduspider-180-76-15-19.crawl.baidu.com
+0 1 1 32673 1 1491763657 0 0
+/
+ip130.ip-178-32-124.eu
+0 10 0 162670 3 1491708013 0 0
+-
+ancarl3888.fvds.ru
+0 4 0 65060 2 1491577936 0 0
+-
+crawl19.exabot.com
+0 2 1 11879 2 1491694930 0 0
+/
+baiduspider-180-76-15-150.crawl.baidu.com
+0 1 1 5971 1 1491181860 0 0
+/
+crawl-66-249-66-215.googlebot.com
+0 2 0 6109 2 1491833072 0 0
+-
+baiduspider-180-76-15-17.crawl.baidu.com
+0 1 1 32673 1 1491763580 0 0
+/
+spider-178-154-189-21.yandex.com
+0 8 8 35203 4 1491813049 0 0
+/
+163-172-66-19.rev.poneytelecom.eu
+0 1 1 5957 1 1491784727 0 0
+/news/
+69.58.178.57
+0 10 10 331066 1 1491822100 0 0
+/links/
+servidor.medisonbrasil.com.br
+0 9 0 162455 1 1491430961 0 0
+-
+malta2970.startdedicated.de
+0 9 9 53640 8 1491155820 0 0
+/stichworte/
+37-115-4-212.broadband.kyivstar.net
+0 1 0 32280 1 1491476569 0 0
+-
+baiduspider-180-76-15-33.crawl.baidu.com
+0 1 1 32673 1 1491417951 0 0
+/
+x59cc99db.dyn.telefonica.de
+0 22 22 563919 1 1491833915 0 0
+/
+181.215.121.110
+0 2 0 0 1 1491795996 0 0
+-
+ancarl3884.fvds.ru
+0 6 0 97590 3 1491815686 0 0
+-
+x4e317439.dyn.telefonica.de
+0 4 0 0 0 0 0 0
+-
+142.4.108.101
+0 10 0 130694 3 1491609751 0 0
+-
+62.210.80.79
+0 2 0 428 2 1491651269 0 0
+-
+192.241.182.199
+0 1 1 5971 1 1491531944 0 0
+/
+ancarl3882.fvds.ru
+0 2 0 32530 1 1491194058 0 0
+-
+aftr-37-201-228-47.unity-media.net
+0 6 6 101547 1 1491172680 0 0
+/
+spider-178-154-189-27.yandex.com
+0 18 15 128890 7 1491813049 0 0
+/
+104.131.22.162
+0 19 19 114551 1 1491160747 0 0
+/meine-lieblingslisten/
+115.68.30.184
+0 1 0 248 0 0 0 0
+-
+baiduspider-180-76-15-22.crawl.baidu.com
+0 2 2 11785 2 1491561824 0 0
+/Zahlung-und-Lieferung/
+46.102.98.80
+0 2 0 0 1 1491782945 0 0
+-
+crawl-66-249-66-85.googlebot.com
+0 1 1 5971 1 1491515858 0 0
+/
+baiduspider-180-76-15-136.crawl.baidu.com
+0 2 2 11866 2 1491498479 0 0
+/
+anfret962.fvds.ru
+0 2 0 32530 1 1491103137 0 0
+-
+spider-5-255-253-70.yandex.com
+0 1 0 5892 1 1491600879 0 0
+-
+ancarl388.fvds.ru
+0 2 0 32530 1 1491052619 0 0
+-
+www.whois.sc
+0 1 1 5971 1 1491707684 0 0
+/
+malta1854.startdedicated.de
+0 10 10 61296 10 1491595018 0 0
+/news/
+163-172-68-122.rev.poneytelecom.eu
+0 1 0 5915 1 1491835831 0 0
+-
+msnbot-40-77-167-39.search.msn.com
+0 1 1 5413 0 0 0 0
+-
+208.166.120.146.serverel.net
+0 1 1 36809 1 1491110662 0 0
+/kontakt/
+static.227.58.9.176.clients.your-server.de
+0 29 29 179092 1 1491593761 0 0
+/wunschzettel/
+163-172-108-151.rev.poneytelecom.eu
+0 4 0 12179 2 1491512160 0 0
+-
+crawl-66-249-76-140.googlebot.com
+0 3 1 37044 1 1491191587 0 0
+-
+crawl-66-249-76-78.googlebot.com
+0 2 0 6120 1 1491836232 0 0
+-
+107.170.0.229
+0 1 1 5971 1 1491506202 0 0
+/
+baiduspider-180-76-15-28.crawl.baidu.com
+0 2 2 11743 2 1491486644 0 0
+/
+baiduspider-180-76-15-163.crawl.baidu.com
+0 1 1 468 1 1491311455 0 0
+/rss/City-Reifen-Felgen-Shop/Top-of-the-Shop/
+114-32-43-155.hinet-ip.hinet.net
+0 1 0 202 1 1491108019 0 0
+-
+hydrogen065.a.ahrefs.com
+0 1 0 202 1 1491311653 0 0
+-
+evo-hl21-1.gameservers.net
+0 1 1 32673 1 1491541211 0 0
+/
+crawl-66-249-66-219.googlebot.com
+0 1 1 30917 0 0 0 0
+-
+baiduspider-180-76-15-148.crawl.baidu.com
+0 1 1 5971 1 1491794748 0 0
+/
+crawl-66-249-76-76.googlebot.com
+0 3 1 7196 2 1491833071 0 0
+-
+msnbot-157-55-39-90.search.msn.com
+0 1 0 5884 1 1491509072 0 0
+-
+199.15.233.172
+0 2 0 428 1 1491249459 0 0
+-
+baiduspider-180-76-15-147.crawl.baidu.com
+0 2 2 11967 2 1491557824 0 0
+/AGB/
+188.226.139.150
+0 1 1 5878 1 1491388412 0 0
+/links/
+122.155.197.232
+0 1 0 202 1 1491209527 0 0
+-
+163-172-65-114.rev.poneytelecom.eu
+0 1 0 5881 1 1491361098 0 0
+-
+ec2-52-214-133-217.eu-west-1.compute.amazonaws.com
+0 1 1 32673 1 1491858120 0 0
+/
+baiduspider-180-76-15-25.crawl.baidu.com
+0 1 1 5971 1 1491826251 0 0
+/
+baiduspider-180-76-15-155.crawl.baidu.com
+0 1 1 32673 1 1491418028 0 0
+/
+64.15.153.169
+0 9 0 162454 1 1491014644 0 0
+-
+anfret968.fvds.ru
+0 4 0 65060 2 1491151521 0 0
+-
+baiduspider-180-76-15-21.crawl.baidu.com
+0 1 1 5971 1 1491512390 0 0
+/
+crawl-66-249-76-74.googlebot.com
+0 2 1 6194 2 1491836232 0 0
+-
+crawl-66-249-66-211.googlebot.com
+0 1 1 1084 0 0 0 0
+-
+195-154-237-71.rev.poneytelecom.eu
+0 1 1 5971 1 1491835486 0 0
+/
+ec2-54-94-207-241.sa-east-1.compute.amazonaws.com
+0 1 1 32673 1 1491711596 0 0
+/
+163-172-52-168.rev.poneytelecom.eu
+0 1 0 201 0 0 0 0
+-
+baiduspider-180-76-15-144.crawl.baidu.com
+0 1 1 5971 1 1491218492 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+baiduspider-180-76-15-30.crawl.baidu.com
+0 1 1 32673 1 1491864255 0 0
+/
+baiduspider-180-76-15-145.crawl.baidu.com
+0 1 1 5971 1 1491848865 0 0
+/
+bardolino.netestate.de
+0 1 1 32673 1 1491814214 0 0
+/
+8-182-16-190.fibertel.com.ar
+0 1 0 202 1 1491838816 0 0
+-
+baiduspider-180-76-15-31.crawl.baidu.com
+0 1 1 32673 1 1491864328 0 0
+/
+crawl-66-249-66-215.googlebot.com
+0 1 0 5895 1 1491833072 0 0
+-
+spider-178-154-189-21.yandex.com
+0 1 1 5971 1 1491813049 0 0
+/
+163-172-66-19.rev.poneytelecom.eu
+0 1 1 5957 1 1491784727 0 0
+/news/
+69.58.178.57
+0 10 10 331066 1 1491822100 0 0
+/links/
+x59cc99db.dyn.telefonica.de
+0 22 22 563919 1 1491833915 0 0
+/
+181.215.121.110
+0 2 0 0 1 1491795996 0 0
+-
+ancarl3884.fvds.ru
+0 2 0 32530 1 1491815686 0 0
+-
+spider-178-154-189-27.yandex.com
+0 1 1 5971 1 1491813049 0 0
+/
+46.102.98.80
+0 2 0 0 1 1491782945 0 0
+-
+163-172-68-122.rev.poneytelecom.eu
+0 1 0 5915 1 1491835831 0 0
+-
+crawl-66-249-76-78.googlebot.com
+0 1 0 5904 1 1491836232 0 0
+-
+baiduspider-180-76-15-148.crawl.baidu.com
+0 1 1 5971 1 1491794748 0 0
+/
+crawl-66-249-76-76.googlebot.com
+0 1 0 214 1 1491833071 0 0
+-
+ec2-52-214-133-217.eu-west-1.compute.amazonaws.com
+0 1 1 32673 1 1491858120 0 0
+/
+baiduspider-180-76-15-25.crawl.baidu.com
+0 1 1 5971 1 1491826251 0 0
+/
+crawl-66-249-76-74.googlebot.com
+0 1 0 223 1 1491836232 0 0
+-
+195-154-237-71.rev.poneytelecom.eu
+0 1 1 5971 1 1491835486 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://breiteschluppen.de/inedx.php/
+1 1
+http://www.breiteschluppen.de/
+1 30
+http://breiteschluppen.de/out/flow/src/css/styles.min.css
+1 5
+http://www.breiteschluppen.de
+1 1
+http://breiteschluppen.de/news/
+1 1
+http://breiteschluppen.de/wunschzettel/
+1 1
+http://breiteschluppen.de/
+1 25
+- (Direct Request)
+0 399
+http://breiteschluppen.de/wp-includes/wp-inc.php
+1 2
+http://45.79.81.203:65080/t.txt
+0 4
+http://breiteschluppen.de/wp-content/plugins/revslider/css/admin.css
+1 1
+http://breiteschluppen.de/startseite/
+1 2
+http://breiteschluppen.de/inedx.php
+1 1
+http://whois.domaintools.com/breiteschluppen.de
+1 1
+http://breiteschluppen.de/wso.php
+1 2
+http://breiteschluppen.de/wp-login.php
+1 7
+http://breiteschluppen.de
+1 1
+http://breiteschluppen.de/log.php
+1 2
+BREITESCHLUPPEN.DE/wp-content/plugins/fancybox-for-wordpress/js/admin.js
+0 1
+http://boobies.cybereroticadult.com/wordpress/wp-login.php
+0 2
+http://belluna.biz/blog/wp-login.php
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)
+0 29
+Mozilla/5.0 (compatible; seoscanners.net/1; +spider@seoscanners.net)
+0 25
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 3
+Spider: Googlebot
+2 16
+SafeDNSBot (https://www.safedns.com/searchbot)
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:2.0b12pre) Gecko/20100101 Firefox/4.0b12pre
+1 1
+Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.132 Mobile Safari/537.36
+1 18
+Mozilla/5.0 (iPad; CPU OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Safari/602.1
+1 15
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 29
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+1 2
+Browser: MSIE
+2 5
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 14
+Browser: Firefox
+2 6
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.89 Safari/537.36
+1 7
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+1 1
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+1 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90)
+1 1
+Mozilla/5.0 (compatible; spbot/5.0.3; +http://OpenLinkProfiler.org/bot )
+0 19
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+1 2
+Mozilla/5.0 (compatible; SiteExplorer/1.1b; +http://siteexplorer.info/Backlink-Checker-Spider/)
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 6
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+1 1
+Mozilla/5.0 (compatible; limb0x16-qnda-0.7.4)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+1 2
+iBusiness Shopcrawler
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (DomainTools)
+1 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+1 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 27
+Mozilla/5.0 (compatible; ips-agent)
+0 10
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 (.NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+1 1
+Browser: Safari
+2 77
+Mozilla/5.0 (compatible; limb0x12-qnda-0.7.4)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.132 Safari/537.36
+1 4
+Mozilla/5.0 (compatible; MJ12bot/v1.4.7; http://www.majestic12.co.uk/bot.php?+)
+1 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+1 10
+Spider: MJ12bot
+2 3
+Mechanize/2.7.3 Ruby/1.9.3p551 (http://github.com/sparklemotion/mechanize/)
+0 8
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Safari/602.1
+1 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+1 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+1 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
+34
+# -notfounderrors- 
+/wp-json/wp/v2/posts/
+1
+/wp-json/wp/v2/posts/13761/
+3
+/by.htm/
+3
+/wp-login.php/
+15
+/wp-includes/wp-inc.php/
+0
+/wp-content/plugins/revslider/css/admin.css
+0
+/produkt/23535-r19-91w-landsail-ls988/
+0
+/wp-content/plugins/fancybox-for-wordpress/js/admin.js
+0
+/apple-app-site-association/
+1
+/.well-known/apple-app-site-association/
+1
+/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css
+0
+/wp-content/plugins/sitesao-core/assets/js/admin.js
+0
+/inedx.php/
+0
+/blog/wp-login.php/
+1
+/administrator/
+0
+/feed/
+1
+/blog/feed/
+1
+/sanitaer/
+0
+/contaeect/
+0
+/ueber-uns/
+0
+/log.php/
+0
+/wp-content/plugins/ubh/up.php/
+1
+/.well-known/assetlinks.json/
+0
+/modules/mod_simplefileuploadv1.3/elements/udd.php
+1
+/wp-includes/wlwmanifest.xml/
+0
+/comments/feed/
+0
+/wp-json/
+0
+/uploads.php/
+1
+/wp-content/uploads/2016/04/cropped-LogoColorNoText.jpeg/
+0
+/wp-content/plugins/revslider/release_log.txt/
+0
+/wso.php/
+0
+/wordpress/wp-login.php/
+0
+/wp/wp-login.php/
+0
+/2016/06/16/24540-r18-97w-mastersteel-supersport/
+0
+# End Of Table - notfounderrors

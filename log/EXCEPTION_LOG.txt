@@ -1,0 +1,62 @@
+oxConnectionException-oxException (time: 2017-02-02 13:28:45): [2006]: mysql error: [2006: MySQL server has gone away] in EXECUTE (select * from oxtplblocks where oxactive=1 and oxshopid='oxbaseshop' and oxtemplate='version_checker_result.tpl' and oxmodule in ( 'invoicepdf' ) order by oxpos asc, Array) with user d0251198
+ 
+ Stack Trace: #0 /www/htdocs/v095735/breiteschluppen.de/core/adodblite/adodbSQL_drivers/mysql/mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 2006, 'MySQL server ha...', 'select * from o...', Array, Object(object_ADOConnection))
+#1 /www/htdocs/v095735/breiteschluppen.de/core/adodblite/adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select * from o...', -1, -1, Array)
+#2 /www/htdocs/v095735/breiteschluppen.de/core/oxlegacydb.php(136): ADOConnection->Execute('select * from o...', Array)
+#3 /www/htdocs/v095735/breiteschluppen.de/core/oxutilsview.php(503): oxLegacyDb->select('select * from o...')
+#4 /www/htdocs/v095735/breiteschluppen.de/core/smarty/plugins/prefilter.oxblock.php(42): oxUtilsView->getTemplateBlocks('version_checker...')
+#5 [internal function]: smarty_prefilter_oxblock('\n<table>\n<tr><t...', Object(Smarty_Compiler))
+#6 /www/htdocs/v095735/breiteschluppen.de/core/smarty/Smarty_Compiler.class.php(249): call_user_func_array('smarty_prefilte...', Array)
+#7 /www/htdocs/v095735/breiteschluppen.de/core/smarty/Smarty.class.php(1490): Smarty_Compiler->_compile_file('version_checker...', '\n<table>\n<tr><t...', NULL)
+#8 /www/htdocs/v095735/breiteschluppen.de/core/smarty/Smarty.class.php(1423): Smarty->_compile_source('version_checker...', '\n<table>\n<tr><t...', NULL, '/www/htdocs/v09...')
+#9 /www/htdocs/v095735/breiteschluppen.de/core/smarty/Smarty.class.php(1262): Smarty->_compile_resource('version_checker...', '/www/htdocs/v09...')
+#10 /www/htdocs/v095735/breiteschluppen.de/application/models/oxsmartyrenderer.php(47): Smarty->fetch('version_checker...')
+#11 /www/htdocs/v095735/breiteschluppen.de/application/controllers/admin/diagnostics_main.php(199): oxSmartyRenderer->renderTemplate('version_checker...', Array)
+#12 /www/htdocs/v095735/breiteschluppen.de/application/controllers/admin/diagnostics_main.php(222): Diagnostics_Main->_getFileCheckReport(Object(oxFileCheckerResult))
+#13 /www/htdocs/v095735/breiteschluppen.de/core/oxview.php(522): Diagnostics_Main->startDiagnostics()
+#14 /www/htdocs/v095735/breiteschluppen.de/core/oxshopcontrol.php(355): oxView->executeFunction('startDiagnostic...')
+#15 /www/htdocs/v095735/breiteschluppen.de/core/oxshopcontrol.php(126): oxShopControl->_process('diagnostics_mai...', 'startDiagnostic...', NULL, NULL)
+#16 /www/htdocs/v095735/breiteschluppen.de/core/oxid.php(40): oxShopControl->start()
+#17 /www/htdocs/v095735/breiteschluppen.de/index.php(26): Oxid::run()
+#18 /www/htdocs/v095735/breiteschluppen.de/admin/index.php(27): require_once('/www/htdocs/v09...')
+#19 {main}
+
+ Connection Adress --> 
+Connection Error --> 
+---------------------------------------------
+oxConnectionException-oxException (time: 2017-02-02 13:28:45): [2006]: mysql error: [2006: MySQL server has gone away] in EXECUTE (select oxproductive from oxshops where oxid = "oxbaseshop", Array) with user d0251198
+ 
+ Stack Trace: #0 /www/htdocs/v095735/breiteschluppen.de/core/adodblite/adodbSQL_drivers/mysql/mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 2006, 'MySQL server ha...', 'select oxproduc...', Array, Object(object_ADOConnection))
+#1 /www/htdocs/v095735/breiteschluppen.de/core/adodblite/generic_modules/pear_module.inc(70): mysql_driver_ADOConnection->do_query('select oxproduc...', -1, -1, Array)
+#2 /www/htdocs/v095735/breiteschluppen.de/core/adodblite/generic_modules/pear_module.inc(56): pear_ADOConnection->GetRow('select oxproduc...', Array, true)
+#3 /www/htdocs/v095735/breiteschluppen.de/core/oxlegacydb.php(95): pear_ADOConnection->GetOne('select oxproduc...', Array)
+#4 /www/htdocs/v095735/breiteschluppen.de/core/oxconfig.php(1937): oxLegacyDb->getOne('select oxproduc...')
+#5 /www/htdocs/v095735/breiteschluppen.de/core/oxshopcontrol.php(618): oxConfig->isProductiveMode()
+#6 /www/htdocs/v095735/breiteschluppen.de/core/oxshopcontrol.php(582): oxShopControl->_getErrorReportingLevel()
+#7 /www/htdocs/v095735/breiteschluppen.de/core/oxshopcontrol.php(121): oxShopControl->_runOnce()
+#8 /www/htdocs/v095735/breiteschluppen.de/core/oxid.php(40): oxShopControl->start()
+#9 /www/htdocs/v095735/breiteschluppen.de/index.php(26): Oxid::run()
+#10 /www/htdocs/v095735/breiteschluppen.de/admin/index.php(27): require_once('/www/htdocs/v09...')
+#11 {main}
+
+ Connection Adress --> 
+Connection Error --> 
+---------------------------------------------
+oxConnectionException-oxException (time: 2017-02-02 13:28:45): [2006]: mysql error: [2006: MySQL server has gone away] in EXECUTE (select oxproductive from oxshops where oxid = "oxbaseshop", Array) with user d0251198
+ 
+ Stack Trace: #0 /www/htdocs/v095735/breiteschluppen.de/core/adodblite/adodbSQL_drivers/mysql/mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 2006, 'MySQL server ha...', 'select oxproduc...', Array, Object(object_ADOConnection))
+#1 /www/htdocs/v095735/breiteschluppen.de/core/adodblite/generic_modules/pear_module.inc(70): mysql_driver_ADOConnection->do_query('select oxproduc...', -1, -1, Array)
+#2 /www/htdocs/v095735/breiteschluppen.de/core/adodblite/generic_modules/pear_module.inc(56): pear_ADOConnection->GetRow('select oxproduc...', Array, true)
+#3 /www/htdocs/v095735/breiteschluppen.de/core/oxlegacydb.php(95): pear_ADOConnection->GetOne('select oxproduc...', Array)
+#4 /www/htdocs/v095735/breiteschluppen.de/core/oxconfig.php(1937): oxLegacyDb->getOne('select oxproduc...')
+#5 /www/htdocs/v095735/breiteschluppen.de/core/oxshopcontrol.php(618): oxConfig->isProductiveMode()
+#6 /www/htdocs/v095735/breiteschluppen.de/core/oxshopcontrol.php(582): oxShopControl->_getErrorReportingLevel()
+#7 /www/htdocs/v095735/breiteschluppen.de/core/oxshopcontrol.php(121): oxShopControl->_runOnce()
+#8 /www/htdocs/v095735/breiteschluppen.de/core/oxid.php(40): oxShopControl->start()
+#9 /www/htdocs/v095735/breiteschluppen.de/index.php(26): Oxid::run()
+#10 /www/htdocs/v095735/breiteschluppen.de/admin/index.php(27): require_once('/www/htdocs/v09...')
+#11 {main}
+
+ Connection Adress --> 
+Connection Error --> 
+---------------------------------------------
